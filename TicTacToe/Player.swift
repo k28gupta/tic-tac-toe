@@ -30,6 +30,10 @@ class Player: NSObject {
         value = 1
     }
     
+    func setValueForPlayerOne(val: Int) {
+        value = val
+    }
+    
     func getValues () -> (value:Int, imageName:String) {
         var imageName:String
         var val = value
