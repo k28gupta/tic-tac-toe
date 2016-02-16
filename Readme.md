@@ -9,6 +9,6 @@ Swift
 
 ## Authors
 
-* Kanupriya Gupta, kanupriya.gupta@compassitesinc.com
+* Kanupriya Gupta, k28gupta@ymail.com
 
 ## License
